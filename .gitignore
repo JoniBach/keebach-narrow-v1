@@ -1,0 +1,5 @@
+\.history/
+~*.lck
+*.bak
+_restore_backup_*/
+.claude/settings.local.json
